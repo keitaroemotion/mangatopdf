@@ -1,0 +1,18 @@
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\bin\Release\PdfConnector.pdb
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\obj\x86\Release\PdfConnector.csprojResolveAssemblyReference.cache
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\obj\x86\Release\PdfConnector.Properties.Resources.resources
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\obj\x86\Release\PdfConnector.csproj.GenerateResource.Cache
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\obj\x86\Release\PdfConnector.pdb
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\bin\Release\PDFlib_dotnet.dll
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\bin\Release\PDFlib_dotnet.xml
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\bin\Release\PdfConnector.dll.config
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\bin\Release\PdfConnector.dll
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\obj\x86\Release\PdfConnector.dll
+C:\project\PdfConnector\PdfConnector\bin\Release\PdfConnector.dll.config
+C:\project\PdfConnector\PdfConnector\bin\Release\PdfConnector.dll
+C:\project\PdfConnector\PdfConnector\bin\Release\PdfConnector.pdb
+C:\project\PdfConnector\PdfConnector\bin\Release\PDFlib_dotnet.xml
+C:\project\PdfConnector\PdfConnector\obj\x86\Release\PdfConnector.csprojResolveAssemblyReference.cache
+C:\project\PdfConnector\PdfConnector\obj\x86\Release\PdfConnector.dll
+C:\project\PdfConnector\PdfConnector\obj\x86\Release\PdfConnector.pdb
+C:\project\PdfConnector\PdfConnector\bin\Release\PDFlib_dotnet.dll

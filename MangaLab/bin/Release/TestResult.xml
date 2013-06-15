@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\project\PdfConnector\MangaLab\bin\Release\MangaLab.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-06-16" time="01:51:54">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.6387" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\project\NUnit-2.6.2\NUnit-2.6.2\bin" machine-name="sugano" user="tobas_000" user-domain="sugano" />
+  <culture-info current-culture="ja-JP" current-uiculture="ja-JP" />
+  <test-suite type="Assembly" name="C:\project\PdfConnector\MangaLab\bin\Release\MangaLab.dll" executed="True" result="Success" success="True" time="1.015" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="MangaLab" executed="True" result="Success" success="True" time="1.009" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="MAINLab" executed="True" result="Success" success="True" time="1.009" asserts="0">
+            <results>
+              <test-case name="MangaLab.MAINLab.MAINTest" executed="True" result="Success" success="True" time="1.003" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

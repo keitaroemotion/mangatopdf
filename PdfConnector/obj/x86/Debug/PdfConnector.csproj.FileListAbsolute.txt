@@ -1,0 +1,9 @@
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\bin\Debug\PdfConnector.exe
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\bin\Debug\PdfConnector.pdb
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\bin\Debug\PDFlib_dotnet.dll
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\bin\Debug\PDFlib_dotnet.xml
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\obj\x86\Debug\PdfConnector.Properties.Resources.resources
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\obj\x86\Debug\PdfConnector.csproj.GenerateResource.Cache
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\obj\x86\Debug\PdfConnector.exe
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\obj\x86\Debug\PdfConnector.pdb
+C:\project\Visual Studio 2010\Projects\PdfConnector\PdfConnector\bin\Debug\PdfConnector.exe.config

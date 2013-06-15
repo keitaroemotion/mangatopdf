@@ -1,0 +1,10 @@
+C:\project\Visual Studio 2010\Projects\PdfConnector\MangaLab\bin\Debug\MangaLab.dll
+C:\project\Visual Studio 2010\Projects\PdfConnector\MangaLab\bin\Debug\MangaLab.pdb
+C:\project\Visual Studio 2010\Projects\PdfConnector\MangaLab\bin\Debug\nunit.framework.dll
+C:\project\Visual Studio 2010\Projects\PdfConnector\MangaLab\bin\Debug\PdfConnector.exe
+C:\project\Visual Studio 2010\Projects\PdfConnector\MangaLab\bin\Debug\PDFlib_dotnet.dll
+C:\project\Visual Studio 2010\Projects\PdfConnector\MangaLab\bin\Debug\PdfConnector.pdb
+C:\project\Visual Studio 2010\Projects\PdfConnector\MangaLab\bin\Debug\PDFlib_dotnet.xml
+C:\project\Visual Studio 2010\Projects\PdfConnector\MangaLab\obj\Debug\MangaLab.csprojResolveAssemblyReference.cache
+C:\project\Visual Studio 2010\Projects\PdfConnector\MangaLab\obj\Debug\MangaLab.dll
+C:\project\Visual Studio 2010\Projects\PdfConnector\MangaLab\obj\Debug\MangaLab.pdb
